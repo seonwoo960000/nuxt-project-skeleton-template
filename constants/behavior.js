@@ -1,0 +1,8 @@
+export default {
+  OPEN_SNACK_BAR_PRIMARY: 'OPEN_SNACK_BAR_PRIMARY',
+  OPEN_SNACK_BAR_ERROR: 'OPEN_SNACK_BAR_ERROR',
+
+  example: {
+    GET_EXAMPLE: 'GET_EXAMPLE'
+  }
+}
